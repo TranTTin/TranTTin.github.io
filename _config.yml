@@ -11,9 +11,9 @@ title                    : "My research hub"
 title_separator          : "-"
 name                     : &name "Tin T. Tran"
 description              : &description "personal description"
-url                      : https://tt-tran.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tranttin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tt-tran/tt-tran.github.io"
+repository               : "tranttin/tranttin.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -117,7 +117,6 @@ author:
   wikipedia        :
 
 
-
 # Reading Files
 include:
   - .htaccess
@@ -183,10 +182,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
