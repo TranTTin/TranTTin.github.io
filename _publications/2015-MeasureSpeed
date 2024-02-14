@@ -1,0 +1,12 @@
+---
+title: "Measuring Similarity between Vehicle Speed Records Using Dynamic Time Warping"
+collection: conferences
+permalink: /publication/2015-MeasureSpeed
+excerpt: 'GPS and mapping'
+date: 2015-10-08
+venue: '2015 Seventh International Conference on Knowledge and Systems Engineering (KSE)'
+paperurl: '(https://doi.org/10.1109/kse.2015.69)'
+citation: 'T. T. Tin, N. T. Hien and V. T. Vinh, "Measuring Similarity between Vehicle Speed Records Using Dynamic Time Warping," 2015 Seventh International Conference on Knowledge and Systems Engineering (KSE), Ho Chi Minh City, Vietnam, 2015, pp. 168-173, doi: 10.1109/KSE.2015.69.'
+---
+Measuring similarity between vehicle speed records play an important role in real-time applications for controlling speed of vehicles as well as early detection of vehicles running with abnormal speed. In this paper, we present a novel approach to this problem by exploiting GPS data collected from vehicle-tracking devices installed in vehicles. Vehicle-tracking devices continuously transmit speed and location of corresponding vehicles by a certain time interval, 10 or 20 seconds for instance. The novelty of our approach is that we use dynamic time wraping technique (DTW) to measure the similarity between two time series of speeds from two vehicles on the same segment of road or highway. By using this technique, DTW distance gives more information about speed changing of vehicles than the other methods. We also conduct experiments to show relations between differentiation in averaged speed and the DTW distance from two vehicles running on the same highway.
+Citation: T. T. Tin, N. T. Hien and V. T. Vinh, "Measuring Similarity between Vehicle Speed Records Using Dynamic Time Warping," 2015 Seventh International Conference on Knowledge and Systems Engineering (KSE), Ho Chi Minh City, Vietnam, 2015, pp. 168-173, doi: 10.1109/KSE.2015.69
